@@ -30,4 +30,4 @@
 - Pandas
 - Data Analysis
 
-[View Certificate](https://github.com/kumaranm-official/Certifications/blob/main/Python/NPTEL%20-%20Python%20for%20D)
+[View Certificate](https://github.com/kumaranm-official/Certifications/blob/main/Python/NPTEL%20-%20Python%20for%20DA.jpg)
