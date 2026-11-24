@@ -8,6 +8,14 @@
 - **Duration:** 57 Hours
 - **Completed:** November 23, 2026
 
+### Skills
+- Python (Programming Language)
+- Object-Oriented Programming (OOP)
+- Data Analysis
+- Flask
+- Web Scraping
+- REST APIs
+
 [View Certificate](./Python/100-days-of-code.pdf)
 
 [Verify Certificate](https://ude.my/UC-c382546c-baf3-4b76-a13a-fb9f5983153a)
